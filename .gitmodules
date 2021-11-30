@@ -1,0 +1,3 @@
+[submodule "HpcGridRunner"]
+	path = HpcGridRunner
+	url = https://github.com/jennydaman/HpcGridRunner.git
